@@ -129,7 +129,7 @@ np.save("above_mean.npy", above_mean)
 *You have reached the end of this programming assignment. Thank you for reading!*
 
 
-**Jupyter Notebook File Link**: 
+**Jupyter Notebook File Link**: https://github.com/benisseyonikadevera-dotcom/ECE-2112-BENISSE-DE-VERA-2ECEB-PA2/blob/main/De%20Vera_Benisse_2ECEB_PA2.ipynb
 
-### **README File Version History**:
+### **README File Version History**: 
 - August 29, 2026: First draft uploaded.
