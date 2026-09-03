@@ -10,7 +10,7 @@
 
 > **Date Submitted**: August 29, 2026
 
-*This repository contains my Programming Assignment #2 for the course "Advanced Computer Programming and Algorithms."*
+*This repository contains my Programming Assignment #2 for the course "Advanced Computer Programming and Algorithms.*
 
 ## **PROBLEM A: REPRODUCIBLE NORMALIZATION PROBLEM**
 - Create a reproducible random 5 × 5 integer **ndarray** named **X**. Use the following two statements before performing any calculation:
